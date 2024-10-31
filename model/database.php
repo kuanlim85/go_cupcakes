@@ -1,6 +1,6 @@
 <?php
 	//database connection details
-	$host = 'cf-multi-tier-rdsinstance-ohnllxqa8gpx.cbyzmqnofpgf.us-east-1.rds.amazonaws.com';
+	$host = 'cf-multi-tier-rdsinstance-qmvdf3ax3f1s.cbyzmqnofpgf.us-east-1.rds.amazonaws.com';
 	$user = 'admin';
 	$password = 'password';
 	$database = 'gorgeous_cupcakes';
