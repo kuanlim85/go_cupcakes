@@ -1,8 +1,8 @@
 <?php
 	//database connection details
-	$host = 'localhost';
-	$user = 'root';
-	$password = '';
+	$host = 'cf-multi-tier-rdsinstance-ohnllxqa8gpx.cbyzmqnofpgf.us-east-1.rds.amazonaws.com';
+	$user = 'admin';
+	$password = 'password';
 	$database = 'gorgeous_cupcakes';
 
 	//connect to database with a try/catch statement
