@@ -1,9 +1,9 @@
 <?php
 	//database connection details
-	$host = 'cf-multi-tier-rdsinstance-twbnvlxyq0oo.cbyzmqnofpgf.us-east-1.rds.amazonaws.com';
+	$host = 'cf-multi-tier-rdsinstance-u98rta03xhqt.cbyzmqnofpgf.us-east-1.rds.amazonaws.com';
 	$user = 'admin';
 	$password = 'password';
-	$database = 'gorgeous_cupcakes_v1';
+	$database = 'gorgeous_cupcakes';
 
 	//connect to database with a try/catch statement
 	//if the connection is not successful display the error message via database_error.php
